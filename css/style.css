@@ -16,6 +16,27 @@ header {
 
 .final-image {
   margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.project-1 {
+  cursor: pointer;
+}
+
+.project-2 {
+  cursor: pointer;
+}
+
+.project-3 {
+  cursor: pointer;
+}
+
+.project-4 {
+  cursor: pointer;
+}
+
+.project-5 {
+  cursor: pointer;
 }
 
 /* Under 600px */
